@@ -1,0 +1,151 @@
+S. No.,Roll No.,Name,Program,Branch,Preference-1,Grade,Preference-2,Grade,Preference-3,Grade,Preference-4,Grade,Preference-5,Grade
+1,P23CS070,Sarita Malik,PhD-1,CS,Principles of Computer Systems - II,B-,Data Engineering,A-,Software Engineering,B-,,,,
+2,P20CS023,Ankur Kumar,PhD-4,CS,Operating Systems,A,Introduction to Computer Graphics,B-,Data Structures and Algorithms,A-,Principles of Programming Languages,A,Introduction to Computer Science,B-
+3,D21AI021,Vishal Singh,MTech-PhD-3,AI,Software Engineering,B,Maths for Computing,B,Principles of Computer Systems - I,B,Design and Analysis of Algorithms,B,,
+4,D19CS047,Monika Choudhary,MTech-PhD-5,CS,Software and Data Engineering,B-,Principles of Programming Languages,B,Data Engineering,A-,Advanced Data Structures & Algorithms,B-,,
+5,P19CS026,Alok Singhania,PhD-5,CS,Human-Machine Interaction,B-,Introduction to Computer Graphics,B,Principles of Computer Systems - I,B,Introduction to Computer Science,B-,Software Engineering,B
+6,D21CS044,Neha Gupta,MTech-PhD-3,CS,Maths for Computing,A,Human-Machine Interaction,B,Pattern Recognition and Machine Learning,B,Machine Learning,A-,,
+7,D20AI072,Ankur Gandhi,MTech-PhD-4,AI,Machine Learning,B,Maths for Computing,A,Database Systems,B,Principles of Programming Languages,A-,Data Engineering,A
+8,D20CS081,Swati Reddy,MTech-PhD-4,CS,Software Engineering,A-,Principles of Computer Systems - II,B-,Data Engineering,B,,,,
+9,D19AI036,Alka Verma,MTech-PhD-5,AI,Maths for Computing,A,Software and Data Engineering,A,Introduction to Computer Graphics,B-,,,,
+10,D20AI028,Manish Mittal,MTech-PhD-4,AI,Database Systems,A,Data Engineering,A,Principles of Programming Languages,B,Introduction to Computer Graphics,A-,Dependable AI,A
+11,P20AI008,Vikram Verma,PhD-4,AI,Machine Learning,B,Data Engineering,A-,Artificial Intelligence,B-,Principles of Computer Systems - I,A,Advanced Data Structures & Algorithms,A-
+12,P21AI042,Manish Garg,PhD-3,AI,Computer Architecture,A-,Data Structures and Algorithms,A-,Data Engineering,A,,,,
+13,D21AI004,Krishna Malik,MTech-PhD-3,AI,Principles of Computer Systems - I,B-,Principles of Programming Languages,A-,Design and Analysis of Algorithms,B,,,,
+14,D19AI026,Raj Yadav,MTech-PhD-5,AI,Artificial Intelligence,A-,Optimization in ML,B,Pattern Recognition and Machine Learning,A-,Computer Architecture,B,,
+15,M23CS036,Deepak Jha,MTech-1,CS,Advanced Data Structures & Algorithms,B,DL-Ops,B,Principles of Computer Systems - I,B-,,,,
+16,B20AI004,Prakash Verma,UG-4,AI,Principles of Computer Systems - I,B,Machine Learning,B-,Optimization in ML,B,Design and Analysis of Algorithms,B,Principles of Programming Languages,A-
+17,P21AI039,Rashmi Kapoor,PhD-3,AI,Data Structures and Algorithms,A,Data Engineering,B-,Computer Networks,A-,,,,
+18,D23CS059,Rajesh Gupta,MTech-PhD-1,CS,Principles of Programming Languages,B-,Database Systems,A-,Introduction to Computer Graphics,B-,,,,
+19,P21AI050,Deepak Kapoor,PhD-3,AI,Operating Systems,A,Human-Machine Interaction,B-,Software and Data Engineering,A-,,,,
+20,P19CS081,Rahul Kapoor,PhD-5,CS,Pattern Recognition and Machine Learning,B-,Optimization in ML,A,Principles of Computer Systems - II,B-,Operating Systems,A,Database Systems,A
+21,P21AI062,Sanjay Chopra,PhD-3,AI,Optimization in ML,A-,Principles of Programming Languages,B,Computer Architecture,B-,Introduction to Computer Graphics,B,,
+22,M22AI017,Meera Malik,MTech-2,AI,Software Engineering,A-,Principles of Computer Systems - II,A-,Principles of Computer Systems - I,A-,,,,
+23,M23CS030,Prakash Agrawal,MTech-1,CS,Operating Systems,A-,Pattern Recognition and Machine Learning,B-,Introduction to Computer Graphics,A-,,,,
+24,B21AI011,Vikram Gandhi,UG-3,AI,Dependable AI,B-,Advanced Data Structures & Algorithms,B-,DL-Ops,B,,,,
+25,P23AI058,Jyoti Sharma,PhD-1,AI,Advanced Data Structures & Algorithms,B,Data Engineering,B,Software and Data Engineering,B,Artificial Intelligence,A-,,
+26,D21CS087,Raj Chopra,MTech-PhD-3,CS,Computer Networks,B,Artificial Intelligence,B,Principles of Programming Languages,A,,,,
+27,D19AI097,Ashish Malik,MTech-PhD-5,AI,Database Systems,A-,Advanced Data Structures & Algorithms,A-,Introduction to Computer Science,A-,Optimization in ML,B-,,
+28,D19CS031,Vishal Verma,MTech-PhD-5,CS,Human-Machine Interaction,B,Principles of Computer Systems - II,B-,Artificial Intelligence,A-,,,,
+29,P23AI092,Anil Chopra,PhD-1,AI,Software Engineering,A-,Principles of Computer Systems - I,A-,Data Engineering,A,Database Systems,B,,
+30,D19AI039,Vikram Chopra,MTech-PhD-5,AI,Computer Networks,B-,Operating Systems,B-,Data Engineering,B-,Principles of Computer Systems - I,A,DL-Ops,A-
+31,D21AI037,Aarti Singh,MTech-PhD-3,AI,Database Systems,A,Human-Machine Interaction,A,Software and Data Engineering,A-,Principles of Computer Systems - II,A-,,
+32,B20AI041,Krishna Mehta,UG-4,AI,Advanced Data Structures & Algorithms,A-,Pattern Recognition and Machine Learning,A-,Human-Machine Interaction,B-,Operating Systems,B,,
+33,D21AI098,Swati Saxena,MTech-PhD-3,AI,Principles of Computer Systems - I,A-,Operating Systems,A-,Computer Architecture,B-,,,,
+34,P21AI077,Swati Verma,PhD-3,AI,Dependable AI,B,Machine Learning,A,Introduction to Computer Graphics,A,Computer Networks,B,,
+35,D22CS064,Amit Bansal,MTech-PhD-2,CS,Operating Systems,B-,Pattern Recognition and Machine Learning,B,Human-Machine Interaction,B-,Introduction to Computer Science,B-,,
+36,M23CS012,Vinod Malik,MTech-1,CS,Computer Networks,B,Introduction to Computer Science,A,Optimization in ML,A,Principles of Programming Languages,A-,,
+37,D19CS056,Kavita Patel,MTech-PhD-5,CS,Design and Analysis of Algorithms,B,DL-Ops,B-,Principles of Computer Systems - II,B-,Artificial Intelligence,B,,
+38,D21CS077,Meera Jaiswal,MTech-PhD-3,CS,Machine Learning,B-,Optimization in ML,A,Principles of Computer Systems - II,A-,,,,
+39,D19CS022,Rashmi Verma,MTech-PhD-5,CS,Machine Learning,B-,Data Engineering,A,Data Structures and Algorithms,A,DL-Ops,B-,Computer Networks,A-
+40,P23AI057,Monika Kumar,PhD-1,AI,Operating Systems,B,Introduction to Computer Graphics,A-,Software and Data Engineering,A-,Pattern Recognition and Machine Learning,B,Computer Architecture,B-
+41,P23CS036,Alka Jaiswal,PhD-1,CS,Dependable AI,B,Data Structures and Algorithms,B-,Artificial Intelligence,A,,,,
+42,D23AI029,Kavita Chauhan,MTech-PhD-1,AI,Computer Architecture,A,Principles of Programming Languages,B,Database Systems,B,Introduction to Computer Science,B,,
+43,M22AI006,Ankur Mittal,MTech-2,AI,Advanced Data Structures & Algorithms,B-,DL-Ops,B,Database Systems,B-,,,,
+44,D20CS037,Pallavi Singhania,MTech-PhD-4,CS,Principles of Computer Systems - I,A,Software Engineering,A,Computer Architecture,B,Human-Machine Interaction,A,,
+45,D20AI096,Sunil Sinha,MTech-PhD-4,AI,Data Engineering,A,Artificial Intelligence,A-,Principles of Programming Languages,B-,Computer Networks,A-,,
+46,P21AI098,Meera Singhania,PhD-3,AI,Operating Systems,A-,Software Engineering,A-,Artificial Intelligence,A,,,,
+47,M22AI062,Manish Chauhan,MTech-2,AI,Optimization in ML,A-,Introduction to Computer Science,B-,Computer Architecture,A-,Database Systems,B-,,
+48,P22CS036,Rajesh Singh,PhD-2,CS,Software and Data Engineering,A-,Design and Analysis of Algorithms,B,Dependable AI,A-,,,,
+49,D21CS075,Rohit Saxena,MTech-PhD-3,CS,Operating Systems,B-,Introduction to Computer Graphics,B,Machine Learning,B-,Data Structures and Algorithms,A-,,
+50,P23AI045,Rahul Kumar,PhD-1,AI,Operating Systems,A,Software Engineering,A,Database Systems,A-,Human-Machine Interaction,B,,
+51,P20AI048,Sangeeta Mehta,PhD-4,AI,Optimization in ML,B,Maths for Computing,A-,Software and Data Engineering,A,Principles of Computer Systems - II,A-,Pattern Recognition and Machine Learning,A-
+52,P22AI041,Suresh Verma,PhD-2,AI,Data Engineering,B-,Principles of Computer Systems - II,A-,DL-Ops,B,Principles of Programming Languages,A,,
+53,D21CS083,Vishal Jaiswal,MTech-PhD-3,CS,Software and Data Engineering,A,Introduction to Computer Graphics,B-,Pattern Recognition and Machine Learning,A-,Software Engineering,A,,
+54,B20CS075,Manish Mehta,UG-4,CS,Human-Machine Interaction,B,Computer Networks,B,Software and Data Engineering,B,DL-Ops,A-,Data Structures and Algorithms,B
+55,D23CS084,Neha Yadav,MTech-PhD-1,CS,Database Systems,A,Operating Systems,A-,Design and Analysis of Algorithms,A-,Principles of Computer Systems - I,A,,
+56,D23AI023,Anil Verma,MTech-PhD-1,AI,Dependable AI,B,Maths for Computing,B-,Computer Architecture,B,Pattern Recognition and Machine Learning,A,,
+57,D19AI019,Raj Gandhi,MTech-PhD-5,AI,DL-Ops,B,Operating Systems,B-,Machine Learning,A-,Maths for Computing,A,Database Systems,A-
+58,P23CS073,Aarti Saxena,PhD-1,CS,Data Engineering,B-,Principles of Computer Systems - II,B-,Principles of Computer Systems - I,A-,,,,
+59,D20AI024,Raj Sharma,MTech-PhD-4,AI,Operating Systems,B,Introduction to Computer Graphics,B,Human-Machine Interaction,A-,,,,
+60,P19CS037,Smita Kumar,PhD-5,CS,Dependable AI,B-,Optimization in ML,A-,Software Engineering,A,,,,
+61,P20CS056,Sanjay Gandhi,PhD-4,CS,Introduction to Computer Science,B,Dependable AI,B-,Machine Learning,B-,Pattern Recognition and Machine Learning,B,,
+62,B20AI063,Krishna Patel,UG-4,AI,Operating Systems,B,Advanced Data Structures & Algorithms,A,Machine Learning,B-,Principles of Computer Systems - I,A-,,
+63,M22AI080,Nisha Sharma,MTech-2,AI,Data Engineering,A,Software Engineering,B-,Design and Analysis of Algorithms,A,Software and Data Engineering,B-,Introduction to Computer Science,A-
+64,M23AI096,Priya Malik,MTech-1,AI,Advanced Data Structures & Algorithms,A-,Machine Learning,A-,Dependable AI,B-,Pattern Recognition and Machine Learning,A-,Design and Analysis of Algorithms,B
+65,D23AI064,Pallavi Gandhi,MTech-PhD-1,AI,Pattern Recognition and Machine Learning,A-,Principles of Computer Systems - I,A-,Operating Systems,B,Optimization in ML,B,,
+66,B21AI022,Meera Kapoor,UG-3,AI,Artificial Intelligence,A-,Dependable AI,A,Principles of Computer Systems - II,A,Introduction to Computer Graphics,B-,,
+67,B21AI056,Neha Chopra,UG-3,AI,Artificial Intelligence,B-,Pattern Recognition and Machine Learning,A,Dependable AI,B-,Principles of Programming Languages,A,,
+68,D21AI014,Monika Mishra,MTech-PhD-3,AI,Design and Analysis of Algorithms,A,Machine Learning,A,DL-Ops,B-,Operating Systems,B-,,
+69,B20AI008,Ravi Kapoor,UG-4,AI,Machine Learning,B,Dependable AI,B-,Principles of Computer Systems - II,B,,,,
+70,D22CS029,Savita Malik,MTech-PhD-2,CS,Operating Systems,B-,Dependable AI,A-,Principles of Computer Systems - I,B,Principles of Computer Systems - II,B,,
+71,P22CS064,Amit Sharma,PhD-2,CS,Principles of Computer Systems - I,B,Artificial Intelligence,B-,Software Engineering,A,,,,
+72,D19AI088,Nisha Bansal,MTech-PhD-5,AI,Principles of Computer Systems - I,B,Machine Learning,B-,Principles of Computer Systems - II,B,Software and Data Engineering,A,,
+73,P22CS010,Sangeeta Mishra,PhD-2,CS,Software and Data Engineering,A-,Maths for Computing,B,Introduction to Computer Science,B-,Introduction to Computer Graphics,B-,,
+74,B20CS028,Sunil Yadav,UG-4,CS,Database Systems,A-,Operating Systems,A-,Computer Architecture,B-,Design and Analysis of Algorithms,A,,
+75,M22CS090,Sangeeta Agrawal,MTech-2,CS,Artificial Intelligence,A-,Data Engineering,B,Optimization in ML,A-,,,,
+76,D23AI035,Jyoti Kumar,MTech-PhD-1,AI,Dependable AI,A,Pattern Recognition and Machine Learning,A,Database Systems,B,,,,
+77,M23AI073,Jyoti Chopra,MTech-1,AI,Software Engineering,A-,Data Structures and Algorithms,B-,Database Systems,B-,Optimization in ML,A,DL-Ops,B
+78,P19AI080,Suresh Patel,PhD-5,AI,Maths for Computing,B,Operating Systems,B,Dependable AI,B-,Design and Analysis of Algorithms,B,,
+79,P20CS022,Ravi Chopra,PhD-4,CS,Computer Architecture,A,Data Structures and Algorithms,A,Principles of Programming Languages,A,,,,
+80,P22CS003,Raj Jha,PhD-2,CS,Design and Analysis of Algorithms,A,Maths for Computing,A,Computer Architecture,B,DL-Ops,B-,Dependable AI,A
+81,D22AI069,Kiran Jha,MTech-PhD-2,AI,Design and Analysis of Algorithms,B-,Database Systems,A,Data Structures and Algorithms,B-,Data Engineering,B-,,
+82,D22CS037,Sunil Dubey,MTech-PhD-2,CS,Computer Architecture,A-,Principles of Programming Languages,A,Machine Learning,B,,,,
+83,D22CS034,Rahul Yadav,MTech-PhD-2,CS,Data Structures and Algorithms,B-,Artificial Intelligence,B,Software and Data Engineering,A,,,,
+84,B21AI086,Prakash Mehta,UG-3,AI,Software Engineering,B-,Principles of Computer Systems - I,B-,Advanced Data Structures & Algorithms,B-,Principles of Programming Languages,B-,,
+85,P20CS083,Sanjay Gupta,PhD-4,CS,DL-Ops,A-,Software and Data Engineering,B-,Computer Networks,B,Human-Machine Interaction,B-,,
+86,P20CS095,Rohit Malik,PhD-4,CS,Machine Learning,B-,Computer Networks,A,Data Engineering,A,Design and Analysis of Algorithms,A,,
+87,D19AI048,Raj Singh,MTech-PhD-5,AI,Maths for Computing,A,Optimization in ML,A,Dependable AI,B,Data Structures and Algorithms,B-,,
+88,D19CS064,Ashish Saxena,MTech-PhD-5,CS,Software and Data Engineering,A,Operating Systems,A-,Artificial Intelligence,B-,Introduction to Computer Graphics,B-,Data Engineering,B
+89,M22CS064,Pooja Kumar,MTech-2,CS,Computer Networks,A,Computer Architecture,A-,Advanced Data Structures & Algorithms,B,,,,
+90,M22CS020,Sarita Mehta,MTech-2,CS,Database Systems,B-,Software Engineering,A-,Data Structures and Algorithms,B,,,,
+91,D21CS096,Krishna Chauhan,MTech-PhD-3,CS,Operating Systems,A,Introduction to Computer Science,A-,Maths for Computing,A,Human-Machine Interaction,A,Pattern Recognition and Machine Learning,A-
+92,P21CS063,Pallavi Dubey,PhD-3,CS,Software and Data Engineering,B-,Introduction to Computer Science,B,Dependable AI,A,Computer Networks,B,DL-Ops,B-
+93,P22AI045,Deepak Chopra,PhD-2,AI,Principles of Programming Languages,A-,Principles of Computer Systems - I,A-,Computer Architecture,A,Software and Data Engineering,A-,Software Engineering,B-
+94,P20CS034,Monika Singhania,PhD-4,CS,DL-Ops,A,Optimization in ML,B-,Human-Machine Interaction,B-,Principles of Programming Languages,A-,,
+95,D23AI057,Ravi Jaiswal,MTech-PhD-1,AI,Database Systems,A,Dependable AI,B,Introduction to Computer Science,A,Maths for Computing,A,,
+96,P21AI096,Prakash Malik,PhD-3,AI,Computer Networks,B,DL-Ops,B-,Computer Architecture,A,,,,
+97,P20CS026,Aarti Chopra,PhD-4,CS,Principles of Computer Systems - II,A,Software Engineering,A,Data Engineering,B,Pattern Recognition and Machine Learning,B-,,
+98,P19CS023,Vinod Choudhary,PhD-5,CS,Dependable AI,A-,Design and Analysis of Algorithms,A-,Data Engineering,B,,,,
+99,P21AI088,Rashmi Dubey,PhD-3,AI,Human-Machine Interaction,A-,DL-Ops,A,Software Engineering,B-,Data Engineering,B-,,
+100,D22AI086,Deepak Kumar,MTech-PhD-2,AI,Data Structures and Algorithms,B-,Software and Data Engineering,A,Principles of Computer Systems - I,A,Machine Learning,B-,,
+101,P22AI008,Vinod Kumar,PhD-2,AI,Optimization in ML,A,DL-Ops,B,Computer Networks,B-,,,,
+102,P19AI045,Amit Shrivastava,PhD-5,AI,Artificial Intelligence,A-,Principles of Computer Systems - II,B,Principles of Computer Systems - I,A-,,,,
+103,D22CS099,Meera Gandhi,MTech-PhD-2,CS,Machine Learning,A-,Maths for Computing,B-,Software and Data Engineering,A,DL-Ops,B,,
+104,D23CS012,Priya Reddy,MTech-PhD-1,CS,Human-Machine Interaction,B-,Maths for Computing,A,Introduction to Computer Graphics,B,,,,
+105,D21CS036,Rajesh Gandhi,MTech-PhD-3,CS,Data Structures and Algorithms,B-,Dependable AI,B-,Introduction to Computer Science,A-,Principles of Computer Systems - II,B,Human-Machine Interaction,A
+106,D19AI025,Manish Gandhi,MTech-PhD-5,AI,Maths for Computing,A-,Pattern Recognition and Machine Learning,B-,Operating Systems,B-,Computer Networks,A-,Introduction to Computer Science,B-
+107,D22AI029,Deepak Patel,MTech-PhD-2,AI,Artificial Intelligence,B,Data Structures and Algorithms,B,Introduction to Computer Graphics,B,,,,
+108,B21CS039,Pallavi Bansal,UG-3,CS,Design and Analysis of Algorithms,B-,Machine Learning,B-,Introduction to Computer Science,A,,,,
+109,D23AI066,Aarti Gupta,MTech-PhD-1,AI,Computer Networks,B,Principles of Programming Languages,B,Maths for Computing,A-,Data Structures and Algorithms,B,Database Systems,A
+110,D22AI028,Kiran Singh,MTech-PhD-2,AI,Optimization in ML,A,Introduction to Computer Graphics,A-,Pattern Recognition and Machine Learning,A,Principles of Computer Systems - II,A,Computer Architecture,B
+111,D23CS083,Sunil Agarwal,MTech-PhD-1,CS,Machine Learning,B,Dependable AI,B-,Human-Machine Interaction,A-,,,,
+112,M22AI044,Ankur Agarwal,MTech-2,AI,Data Structures and Algorithms,B-,Software and Data Engineering,A-,Principles of Computer Systems - I,B-,Data Engineering,A,,
+113,P22AI029,Anil Bansal,PhD-2,AI,Data Structures and Algorithms,A,Pattern Recognition and Machine Learning,A,Software and Data Engineering,A-,Principles of Programming Languages,A-,Principles of Computer Systems - I,A-
+114,D20AI034,Alka Choudhary,MTech-PhD-4,AI,DL-Ops,B-,Design and Analysis of Algorithms,B,Machine Learning,A,Software and Data Engineering,B-,,
+115,M22AI031,Neha Mittal,MTech-2,AI,Dependable AI,B-,Principles of Computer Systems - II,A,DL-Ops,A,,,,
+116,P22AI080,Nisha Malik,PhD-2,AI,Pattern Recognition and Machine Learning,B,Advanced Data Structures & Algorithms,B,Design and Analysis of Algorithms,A-,Computer Networks,B-,DL-Ops,A
+117,D19CS074,Krishna Chopra,MTech-PhD-5,CS,Software Engineering,B-,Software and Data Engineering,A,Dependable AI,B,Operating Systems,B,,
+118,M22CS008,Pallavi Mehta,MTech-2,CS,Design and Analysis of Algorithms,A-,Optimization in ML,B,Advanced Data Structures & Algorithms,B-,,,,
+119,D20AI046,Alka Kapoor,MTech-PhD-4,AI,Computer Architecture,A,Principles of Computer Systems - I,B-,Software and Data Engineering,A-,,,,
+120,D23CS099,Savita Chauhan,MTech-PhD-1,CS,Data Structures and Algorithms,A-,Principles of Programming Languages,B-,Introduction to Computer Graphics,B,Pattern Recognition and Machine Learning,B-,Maths for Computing,B
+121,P21AI089,Raj Mishra,PhD-3,AI,Artificial Intelligence,B-,Human-Machine Interaction,B,Computer Architecture,A-,,,,
+122,P22AI099,Neha Malik,PhD-2,AI,Optimization in ML,A-,DL-Ops,B,Software Engineering,A,Dependable AI,A,Data Structures and Algorithms,B-
+123,D20CS083,Savita Agarwal,MTech-PhD-4,CS,DL-Ops,B-,Machine Learning,A-,Introduction to Computer Science,B-,Data Structures and Algorithms,B,Principles of Computer Systems - I,B
+124,D23CS061,Sneha Kumar,MTech-PhD-1,CS,Maths for Computing,A,Human-Machine Interaction,B-,Advanced Data Structures & Algorithms,A,,,,
+125,D20AI049,Swati Yadav,MTech-PhD-4,AI,Operating Systems,A,Advanced Data Structures & Algorithms,A,Principles of Computer Systems - II,B-,,,,
+126,P22AI013,Sarita Bansal,PhD-2,AI,Computer Networks,A,Artificial Intelligence,B,Advanced Data Structures & Algorithms,A,,,,
+127,M23CS037,Sanjay Sinha,MTech-1,CS,Design and Analysis of Algorithms,A-,Dependable AI,A-,Principles of Computer Systems - I,B-,,,,
+128,D22AI068,Pallavi Verma,MTech-PhD-2,AI,Artificial Intelligence,B,Pattern Recognition and Machine Learning,B-,Data Structures and Algorithms,B,Data Engineering,A-,,
+129,D22CS032,Suresh Sharma,MTech-PhD-2,CS,Principles of Computer Systems - II,B,Advanced Data Structures & Algorithms,A,Principles of Programming Languages,B-,Data Structures and Algorithms,A,,
+130,B20CS022,Sunil Kumar,UG-4,CS,Introduction to Computer Science,B-,Principles of Computer Systems - I,A-,Database Systems,A-,Computer Architecture,A-,Software Engineering,B-
+131,B21CS001,Deepak Jaiswal,UG-3,CS,Introduction to Computer Science,A,Dependable AI,B-,Software and Data Engineering,B,Software Engineering,A-,,
+132,B21CS051,Smita Mishra,UG-3,CS,Operating Systems,B-,Dependable AI,A-,Advanced Data Structures & Algorithms,B,Computer Architecture,A-,Data Structures and Algorithms,B-
+133,B20AI089,Sangeeta Bansal,UG-4,AI,Principles of Computer Systems - I,B-,Dependable AI,B-,Introduction to Computer Graphics,A,Computer Architecture,B,Software Engineering,B
+134,P20AI016,Pallavi Chauhan,PhD-4,AI,Computer Networks,B,Pattern Recognition and Machine Learning,B-,Principles of Computer Systems - II,A,,,,
+135,P23CS003,Vishal Kapoor,PhD-1,CS,Principles of Programming Languages,A-,Human-Machine Interaction,B,Introduction to Computer Science,B-,Software and Data Engineering,A,Principles of Computer Systems - II,B-
+136,D22CS088,Vishal Mehta,MTech-PhD-2,CS,Data Engineering,A-,Optimization in ML,B,Dependable AI,A-,Pattern Recognition and Machine Learning,A-,,
+137,D20AI076,Savita Kumar,MTech-PhD-4,AI,Principles of Computer Systems - I,B-,Computer Networks,A-,Design and Analysis of Algorithms,A,Introduction to Computer Science,A,DL-Ops,B-
+138,D20CS018,Vikram Reddy,MTech-PhD-4,CS,Design and Analysis of Algorithms,A,Principles of Computer Systems - II,B,Machine Learning,B-,Principles of Programming Languages,A,,
+139,D19AI052,Amit Singh,MTech-PhD-5,AI,Dependable AI,A-,Human-Machine Interaction,A,Introduction to Computer Graphics,A,Software and Data Engineering,B-,,
+140,D19AI061,Vikram Malik,MTech-PhD-5,AI,Introduction to Computer Graphics,B-,Principles of Programming Languages,A-,Optimization in ML,B,Database Systems,A,,
+141,B21AI058,Meera Reddy,UG-3,AI,Software Engineering,A-,Computer Architecture,A,Introduction to Computer Graphics,B-,Pattern Recognition and Machine Learning,A,Software and Data Engineering,B-
+142,M22AI037,Sneha Reddy,MTech-2,AI,Human-Machine Interaction,B,Advanced Data Structures & Algorithms,B,Principles of Programming Languages,A,Pattern Recognition and Machine Learning,A-,Operating Systems,B-
+143,M23AI007,Deepak Sinha,MTech-1,AI,Computer Architecture,B,Pattern Recognition and Machine Learning,A,Optimization in ML,A,Computer Networks,B-,,
+144,D23AI020,Aarti Chauhan,MTech-PhD-1,AI,Human-Machine Interaction,B,Database Systems,B,Dependable AI,A,Software and Data Engineering,B-,,
+145,B20CS099,Deepak Verma,UG-4,CS,Computer Networks,B,Machine Learning,A,Optimization in ML,A,,,,
+146,D23AI021,Smita Yadav,MTech-PhD-1,AI,Operating Systems,A-,Principles of Computer Systems - I,A-,Principles of Computer Systems - II,B-,,,,
+147,P20CS062,Priya Singhania,PhD-4,CS,Advanced Data Structures & Algorithms,B-,Human-Machine Interaction,B,Artificial Intelligence,A,Introduction to Computer Science,B,,
+148,P19CS098,Alok Jaiswal,PhD-5,CS,Computer Architecture,B-,Artificial Intelligence,A,Computer Networks,A,,,,
+149,P19CS070,Rahul Chauhan,PhD-5,CS,Design and Analysis of Algorithms,A,Data Structures and Algorithms,B,Pattern Recognition and Machine Learning,B-,Optimization in ML,B,Database Systems,A
+150,P20CS017,Sarita Garg,PhD-4,CS,Principles of Computer Systems - II,B-,Software and Data Engineering,B-,DL-Ops,B-,Operating Systems,B,,

@@ -1,0 +1,67 @@
+,Course,Roll No.,Name,Program,Branch,Preference Number,Grade
+0,Introduction to Computer Science,P20CS056,Sanjay Gandhi,PhD-4,CS,1,B
+1,Introduction to Computer Science,P21CS063,Pallavi Dubey,PhD-3,CS,2,B
+2,Introduction to Computer Science,D21CS096,Krishna Chauhan,MTech-PhD-3,CS,2,A-
+3,Introduction to Computer Science,D21CS036,Rajesh Gandhi,MTech-PhD-3,CS,3,A-
+4,Introduction to Computer Science,D19AI097,Ashish Malik,MTech-PhD-5,AI,3,A-
+5,Data Structures and Algorithms,P22AI029,Anil Bansal,PhD-2,AI,1,A
+6,Data Structures and Algorithms,P21AI039,Rashmi Kapoor,PhD-3,AI,1,A
+7,Data Structures and Algorithms,P21AI042,Manish Garg,PhD-3,AI,2,A-
+8,Data Structures and Algorithms,P20CS022,Ravi Chopra,PhD-4,CS,2,A
+9,Data Structures and Algorithms,P19CS070,Rahul Chauhan,PhD-5,CS,2,B
+10,Software Engineering,D21AI021,Vishal Singh,MTech-PhD-3,AI,1,B
+11,Software Engineering,D20CS081,Swati Reddy,MTech-PhD-4,CS,1,A-
+12,Software Engineering,P21AI098,Meera Singhania,PhD-3,AI,2,A-
+13,Human-Machine Interaction,P21AI088,Rashmi Dubey,PhD-3,AI,1,A-
+14,Human-Machine Interaction,D19CS031,Vishal Verma,MTech-PhD-5,CS,1,B
+15,Maths for Computing,P19AI080,Suresh Patel,PhD-5,AI,1,B
+16,Maths for Computing,D21CS044,Neha Gupta,MTech-PhD-3,CS,1,A
+17,Maths for Computing,D19AI048,Raj Singh,MTech-PhD-5,AI,1,A
+18,Maths for Computing,D19AI036,Alka Verma,MTech-PhD-5,AI,1,A
+19,Pattern Recognition and Machine Learning,P22AI080,Nisha Malik,PhD-2,AI,1,B
+20,Pattern Recognition and Machine Learning,D22CS064,Amit Bansal,MTech-PhD-2,CS,2,B
+21,Pattern Recognition and Machine Learning,D22AI028,Kiran Singh,MTech-PhD-2,AI,3,A
+22,Pattern Recognition and Machine Learning,D21CS083,Vishal Jaiswal,MTech-PhD-3,CS,3,A-
+23,Pattern Recognition and Machine Learning,D19AI026,Raj Yadav,MTech-PhD-5,AI,3,A-
+24,Principles of Computer Systems - I,P22CS064,Amit Sharma,PhD-2,CS,1,B
+25,Principles of Computer Systems - II,P20CS026,Aarti Chopra,PhD-4,CS,1,A
+26,Principles of Computer Systems - II,D22CS032,Suresh Sharma,MTech-PhD-2,CS,1,B
+27,Principles of Programming Languages,P22AI045,Deepak Chopra,PhD-2,AI,1,A-
+28,Principles of Programming Languages,P21AI062,Sanjay Chopra,PhD-3,AI,2,B
+29,Design and Analysis of Algorithms,P22CS003,Raj Jha,PhD-2,CS,1,A
+30,Design and Analysis of Algorithms,D21AI014,Monika Mishra,MTech-PhD-3,AI,1,A
+31,Design and Analysis of Algorithms,D20CS018,Vikram Reddy,MTech-PhD-4,CS,1,A
+32,Design and Analysis of Algorithms,D19CS056,Kavita Patel,MTech-PhD-5,CS,1,B
+33,Artificial Intelligence,P19AI045,Amit Shrivastava,PhD-5,AI,1,A-
+34,Artificial Intelligence,D22AI068,Pallavi Verma,MTech-PhD-2,AI,1,B
+35,Computer Architecture,D22CS037,Sunil Dubey,MTech-PhD-2,CS,1,A-
+36,Computer Architecture,D20AI046,Alka Kapoor,MTech-PhD-4,AI,1,A
+37,Computer Architecture,P21AI096,Prakash Malik,PhD-3,AI,3,A
+38,Computer Networks,P22AI013,Sarita Bansal,PhD-2,AI,1,A
+39,Computer Networks,P20AI016,Pallavi Chauhan,PhD-4,AI,1,B
+40,Computer Networks,D21CS087,Raj Chopra,MTech-PhD-3,CS,1,B
+41,Database Systems,D21AI037,Aarti Singh,MTech-PhD-3,AI,1,A
+42,Database Systems,D20AI028,Manish Mittal,MTech-PhD-4,AI,1,A
+43,Database Systems,D22AI069,Kiran Jha,MTech-PhD-2,AI,2,A
+44,Data Engineering,D22CS088,Vishal Mehta,MTech-PhD-2,CS,1,A-
+45,Data Engineering,D20AI096,Sunil Sinha,MTech-PhD-4,AI,1,A
+46,Operating Systems,P21AI050,Deepak Kapoor,PhD-3,AI,1,A
+47,Operating Systems,P20CS023,Ankur Kumar,PhD-4,CS,1,A
+48,Operating Systems,D20AI024,Raj Sharma,MTech-PhD-4,AI,1,B
+49,Optimization in ML,P22AI099,Neha Malik,PhD-2,AI,1,A-
+50,Optimization in ML,P22AI008,Vinod Kumar,PhD-2,AI,1,A
+51,Optimization in ML,P20AI048,Sangeeta Mehta,PhD-4,AI,1,B
+52,Optimization in ML,P19CS081,Rahul Kapoor,PhD-5,CS,2,A
+53,Advanced Data Structures & Algorithms,D20AI049,Swati Yadav,MTech-PhD-4,AI,2,A
+54,Advanced Data Structures & Algorithms,P20AI008,Vikram Verma,PhD-4,AI,5,A-
+55,Advanced Data Structures & Algorithms,M22AI037,Sneha Reddy,MTech-2,AI,2,B
+56,Introduction to Computer Graphics,P19CS026,Alok Singhania,PhD-5,CS,2,B
+57,Introduction to Computer Graphics,D21CS075,Rohit Saxena,MTech-PhD-3,CS,2,B
+58,Introduction to Computer Graphics,P21AI077,Swati Verma,PhD-3,AI,3,A
+59,Machine Learning,D22CS099,Meera Gandhi,MTech-PhD-2,CS,1,A-
+60,Machine Learning,D20AI072,Ankur Gandhi,MTech-PhD-4,AI,1,B
+61,Machine Learning,D20CS083,Savita Agarwal,MTech-PhD-4,CS,2,A-
+62,Software and Data Engineering,P22CS036,Rajesh Singh,PhD-2,CS,1,A-
+63,Software and Data Engineering,P22CS010,Sangeeta Mishra,PhD-2,CS,1,A-
+64,Software and Data Engineering,D19CS064,Ashish Saxena,MTech-PhD-5,CS,1,A
+65,DL-Ops,P20CS083,Sanjay Gupta,PhD-4,CS,1,A-

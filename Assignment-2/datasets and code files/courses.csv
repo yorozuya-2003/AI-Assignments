@@ -1,0 +1,24 @@
+S. No. ,Course Code,Course Name,Offered for,Credits,No. of Students
+1,CSL1010,Introduction to Computer Science,UG-1,3-0-2,250
+2,CSL2020,Data Structures and Algorithms,UG-2,3-0-2,250
+3,CSL2070,Software Engineering,UG-2,3-0-2,125
+4,CSP2020,Human-Machine Interaction,UG-2,0-0-4,160
+5,CSL2040,Maths for Computing,UG-2,3-1-2,160
+6,CSL2050,Pattern Recognition and Machine Learning,UG-2,3-0-2,250
+7,CSL2080,Principles of Computer Systems - I,UG-2,2-0-2,60
+8,CSL2090,Principles of Computer Systems - II,UG-2,3-0-2,60
+9,CSL3020,Principles of Programming Languages,UG-3,3-0-0,125
+10,CSL3010,Design and Analysis of Algorithms,UG-3,3-1-0,175
+11,CSL3090,Artificial Intelligence,"UG-3, UG-4",3-0-0,75
+12,CSL3080,Computer Architecture,UG-3,3-0-0,200
+13,CSL3050,Computer Networks,UG-3,3-0-3,125
+14,CSL3060,Database Systems,UG-3,3-0-2,125
+15,CSL4030,Data Engineering,UG-3,3-0-3,60
+16,CSL3030,Operating Systems,UG-3,3-0-2,125
+17,CSL4010,Optimization in ML,"UG-3, UG-4",3-0-3,175
+18,CSL7070,Dependable AI,"MTech-2, PhD-1",3-0-0,15
+19,CSL7010,Advanced Data Structures & Algorithms,"UG-4, MTech-1, PhD-1",3-0-0,150
+20,CSL4050,Introduction to Computer Graphics,"UG-4, MTech-1, PhD-1",3-0-0,150
+21,CSL7020,Machine Learning,"MTech-2, PhD-1",3-0-0,200
+22,CSL7030,Software and Data Engineering,"MTech-1, PhD-1",3-0-0,200
+23,CSL7050,DL-Ops,"UG-4, MTech-1, PhD-1",0-0-2,100
